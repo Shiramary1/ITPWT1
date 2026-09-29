@@ -1,0 +1,42 @@
+{
+  "products": [
+    {
+      "id": "123",
+      "collectionTitle": "WOMEN COLLECTION",
+      "title": "MOSCHINO CHEAP AND CHIC",
+      "description": "Compellingly actualize fully researched processes before proactive outsourcing. Progressively syndicate collaborative architectures before cutting-edge services. Completely visualize parallel core competencies rather than exceptional portals.",
+      "price": "$561",
+      "images": [
+        "/products/Image13.jpg",
+        "/products/Image12.jpg",
+        "/products/Image11.jpg"
+      ],
+      "colors": [
+        "Red",
+        "Blue",
+        "Green"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ]
+    }
+  ],
+  "related": [
+    {
+      "id": "456",
+      "title": "ELLERY X M'O CAPSULE",
+      "description": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi.",
+      "price": "$52.00",
+      "image": "/products/Image11.jpg"
+    },
+    {
+      "id": "789",
+      "title": "ANOTHER PRODUCT",
+      "description": "Short description …",
+      "price": "$72.00",
+      "image": "/products/Image12.jpg"
+    }
+  ]
+}
